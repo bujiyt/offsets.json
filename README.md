@@ -1,1 +1,27 @@
-# offsets.json
+{
+  "InitBase": "0x93A4758",
+  "StaticClass": "0x5C",
+  "CurrentMatch": "0x50",
+  "MatchStatus": "0x3c",
+  "LocalPlayer": "0x44",
+  "DictionaryEntities": "0x68",
+  "Player_IsDead": "0x4c",
+  "Player_Name": "0x23c",
+  "Player_Data": "0x44",
+  "Player_ShadowBase": "0x1344",
+  "XPose": "0x78",
+  "AvatarManager": "0x408",
+  "Avatar": "0x94",
+  "Avatar_IsVisible": "0x7c",
+  "Avatar_Data": "0x10",
+  "Avatar_Data_IsTeam": "0x51",
+  "FollowCamera": "0x39c",
+  "Camera": "0x14",
+  "AimRotation": "0x354",
+  "MainCameraTransform": "0x1ac",
+  "Weapon": "0x348",
+  "WeaponData": "0x50",
+  "WeaponName": "0x38",
+  "WeaponRecoil": "0xc",
+  "ViewMatrix": "0x98 + 0x24"
+}
